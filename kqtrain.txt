@@ -1,0 +1,802 @@
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:54:05.389878: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:54:05.956772: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:54:10.533739: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:54:11.147886: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:54:15.917540: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:54:16.547286: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 37/50
+Train Loss: 0.0554 | Val Loss: 0.0556
+Saved best model!
+Epoch 38/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/s]PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:55:04.789433: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:55:05.369824: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:55:10.031870: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:55:10.610116: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:55:15.241265: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:55:15.828108: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:55:20.460471: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:55:21.029224: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 38/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:43<00:00,  4.19it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:58:48.435413: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:58:49.015856: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:58:53.688519: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:58:54.277144: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:58:58.860780: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:58:59.433694: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:59:03.962970: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:59:04.548539: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 38/50
+Train Loss: 0.0542 | Val Loss: 0.0560
+Epoch 39/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:59:45.407930: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:59:46.002869: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:59:50.713931: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:59:51.299640: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 14:59:56.111528: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 14:59:56.723416: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:00:01.504212: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:00:02.089659: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 39/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:54<00:00,  4.01it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:03:40.102274: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:03:40.740698: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:03:45.456271: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:03:46.069900: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:03:50.710598: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:03:51.270452: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:03:56.022989: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:03:56.605119: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 39/50
+Train Loss: 0.0528 | Val Loss: 0.0556
+Epoch 40/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:04:38.410243: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:04:39.003674: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:04:43.856971: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:04:44.451548: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:04:49.255533: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:04:49.854973: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:04:55.311411: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:04:55.991730: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 40/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:50<00:00,  4.08it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:08:28.488112: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:08:29.076392: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:08:33.777141: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:08:34.383178: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:08:39.023884: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:08:39.615775: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:08:44.350565: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:08:44.938456: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 40/50
+Train Loss: 0.0519 | Val Loss: 0.0560
+Epoch 41/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:09:29.075718: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:09:29.679399: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:09:34.529307: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:09:35.122315: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:09:39.842002: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:09:40.441929: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:09:45.177370: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:09:45.768111: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 41/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:47<00:00,  4.12it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:13:16.464142: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:13:17.055596: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:13:21.781945: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:13:22.392151: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:13:27.087534: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:13:27.685507: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:13:32.396907: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:13:32.988460: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 41/50
+Train Loss: 0.0515 | Val Loss: 0.0552
+Saved best model!
+Epoch 42/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/s]PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:14:31.145567: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:14:31.734251: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:14:36.360768: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:14:36.935966: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:14:41.873481: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:14:42.467047: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:14:47.193226: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:14:47.787481: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 42/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:56<00:00,  3.97it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:18:27.614520: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:18:28.201422: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:18:32.987139: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:18:33.572300: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:18:38.250645: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:18:38.833113: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:18:43.733486: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:18:44.311479: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 42/50
+Train Loss: 0.0499 | Val Loss: 0.0546
+Saved best model!
+Epoch 43/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/s]PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:19:38.594357: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:19:39.189267: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:19:43.851640: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:19:44.418114: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:19:49.054486: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:19:49.656421: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:19:54.321914: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:19:54.890590: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 43/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:42<00:00,  4.21it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:23:21.290277: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:23:21.936982: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:23:26.602073: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:23:27.172964: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:23:31.824076: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:23:32.401766: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:23:37.035522: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:23:37.673438: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 43/50
+Train Loss: 0.0493 | Val Loss: 0.0547
+Epoch 44/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:24:19.190880: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:24:19.774739: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:24:24.712286: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:24:25.296235: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:24:30.177655: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:24:30.882259: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:24:35.947367: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:24:36.527350: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 44/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:50<00:00,  4.08it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:28:09.424472: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:28:10.028729: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:28:14.687483: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:28:15.262714: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:28:19.857409: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:28:20.433319: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:28:24.997113: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:28:25.618714: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 44/50
+Train Loss: 0.0483 | Val Loss: 0.0557
+Epoch 45/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:29:06.849250: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:29:07.433825: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:29:12.088470: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:29:12.678803: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:29:17.383623: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:29:17.953144: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:29:22.720973: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:29:23.339449: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 45/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:49<00:00,  4.08it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:32:56.569324: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:32:57.167454: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:33:01.938136: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:33:02.544420: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:33:07.297260: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:33:07.911749: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:33:12.652734: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:33:13.266787: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 45/50
+Train Loss: 0.0476 | Val Loss: 0.0544
+Saved best model!
+Epoch 46/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/s]PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:34:05.990043: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:34:06.593591: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:34:11.474860: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:34:12.096241: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:34:17.109871: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:34:17.714498: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:34:22.740523: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:34:23.341489: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 46/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:45<00:00,  4.16it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:37:51.410923: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:37:51.998871: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:37:56.642595: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:37:57.349162: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:38:02.514749: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:38:03.145585: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:38:08.318998: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:38:08.922607: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 46/50
+Train Loss: 0.0470 | Val Loss: 0.0552
+Epoch 47/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:38:50.048880: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:38:50.621378: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:38:55.391176: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:38:55.982067: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:39:00.740262: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:39:01.329186: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:39:06.094671: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:39:06.692080: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 47/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:55<00:00,  3.99it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:42:45.337476: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:42:45.920435: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:42:50.533365: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:42:51.117145: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:42:55.763913: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:42:56.339929: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:43:00.898650: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:43:01.479382: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 47/50
+Train Loss: 0.0463 | Val Loss: 0.0548
+Epoch 48/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:43:42.780433: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:43:43.382422: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:43:48.076035: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:43:48.649100: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:43:53.359068: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:43:53.966929: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:43:58.723913: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:43:59.315849: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 48/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:55<00:00,  3.98it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:47:38.891972: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:47:39.591103: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:47:44.993367: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:47:45.735245: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:47:51.162997: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:47:51.861936: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:47:57.286435: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:47:57.987928: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 48/50
+Train Loss: 0.0455 | Val Loss: 0.0558
+Epoch 49/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:48:40.426241: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:48:41.043516: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:48:45.818129: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:48:46.401903: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:48:51.034808: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:48:51.609140: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:48:56.515717: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:48:57.091896: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 49/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [03:55<00:00,  3.98it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:52:35.737442: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:52:36.337864: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:52:41.046859: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:52:41.615140: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:52:46.270385: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:52:46.919534: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:52:51.608208: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:52:52.199650: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 49/50
+Train Loss: 0.0444 | Val Loss: 0.0557
+Epoch 50/50:   0%|                                                                                                                                                                                | 0/938 [00:00<?, ?it/sP 
+yTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:53:33.684855: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:53:34.500431: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:53:40.146207: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:53:40.866608: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:53:46.516132: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:53:47.233599: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:53:52.988206: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:53:53.736365: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 50/50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 938/938 [04:13<00:00,  3.70it/s]
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:57:47.244654: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:57:47.939382: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:57:52.717604: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:57:53.330403: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:57:58.028980: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:57:58.650792: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+PyTorch version: 2.7.1+cu126
+Using device: cuda
+GPU Name: NVIDIA GeForce RTX 3060
+GPU Memory: 0.00 MB allocated
+2025-06-05 15:58:03.317659: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-05 15:58:03.970442: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Transformers imported successfully
+Epoch 50/50
+Train Loss: 0.0421 | Val Loss: 0.0547
+Training completed!
